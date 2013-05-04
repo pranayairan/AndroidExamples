@@ -5,3 +5,6 @@ This is a simple example which helps you in creating simple Coach Marks/Help ove
 If you have use apps like Pulse or EX file explorer you would have notice that when you use the app for the first time it presents you with nice help overlays explaining different functionality of app. 
 
 We are trying to achive the same thing with this example code
+
+
+Updated the code with more simplified method which will work in fragments
