@@ -8,3 +8,6 @@ We are trying to achive the same thing with this example code
 
 
 Updated the code with more simplified method which will work in fragments
+
+
+![Overlay example](https://gs1.wac.edgecastcdn.net/8019B6/data.tumblr.com/tumblr_mb2ie89T291ruigzv.png "Help Overlay android")
